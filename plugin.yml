@@ -1,0 +1,9 @@
+name: "LobbyCmd"
+version: "1.0.0"
+main: "vb.$lobbycmd.PluginMain"
+api-version: 1.13
+authors: [A53o]
+description: "a simple /lobby plugin"
+commands:
+  lobby:
+permissions:
