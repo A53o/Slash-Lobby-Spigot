@@ -9,5 +9,5 @@ if help is needed join the [discord](https://discord.gg/nN7W2vTkb9)
 
 # Info
 
-This plugin was made using Visual Bukkit witch is a tool to make it easy to make plugins https://github.com/OfficialDonut/VisualBukkit
+This plugin was made using Visual Bukkit which is a tool to make it easy to make plugins https://github.com/OfficialDonut/VisualBukkit
 
